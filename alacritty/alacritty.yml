@@ -26,9 +26,9 @@ env:
 
 #colorscheme
 import:
+  #- ~/.config/alacritty/themes/themes/github_light_colorblind.yaml
   #- ~/.config/alacritty/themes/themes/atom_one_light.yaml
   #- ~/.config/alacritty/themes/themes/ayu_dark.yaml
-  #- ~/.config/alacritty/themes/themes/github_light_colorblind.yaml
   - ~/.config/alacritty/themes/themes/github_dark_colorblind.yaml
 
 #window:
@@ -134,11 +134,12 @@ dynamic_title:
 
 # Font configuration
 font:
-  family: JetBrainsMono NFM
-  #family: FiraCode NFM
-  #family: UbuntuMono NFM
-  style: Regular
-  size: 24.0
+  normal:
+    family: JetBrainsMono NFM
+    #family: FiraCode NFM
+    #family: UbuntuMono Nerd Font
+    style: Regular
+  size: 25.0
 #font:
 # Normal (roman) font face
 #normal:
