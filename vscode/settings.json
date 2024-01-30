@@ -1,0 +1,11 @@
+{
+    "workbench.colorTheme": "One Dark Pro Darker",
+    "editor.fontFamily": "JetBrainsMono Nerd Font Mono",
+    "editor.fontWeight": "300",
+    "editor.fontLigatures": true,
+    "editor.fontSize": 15,
+    "editor.lineHeight": 1.25,
+    "terminal.integrated.defaultProfile.osx": "fish",
+    "git.enableSmartCommit": true,
+    "git.confirmSync": false
+}
